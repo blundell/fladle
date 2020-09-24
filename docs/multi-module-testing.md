@@ -1,6 +1,6 @@
 # Multi-module testing
 
-Multi module testing can be done by manually specifying [additionalTestApks](/fladle/configuration/#additionaltestapks) or applying the Fulladle plugin to automacally gather all the additional test apks.
+Multi module testing can be done by manually specifying [additionalTestApks](/fladle/configuration/#additionaltestapks) or applying the Fladle plugin to automacally gather all the additional test apks.
 
 ## Fulladle Plugin
 
